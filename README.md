@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @slinnor
+- 👋 Hi, I’m Daniel
 - 👀 I’m interested in back-end development
 - 🌱 I’m currently learning PHP and ASP.NET Core
 
