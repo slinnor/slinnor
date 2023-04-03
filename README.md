@@ -17,3 +17,9 @@ I work at [Twigsee](www.twigsee.com) and I am interested in few programming lang
 - Python
 
 I also love photography! You can check my [1x.com gallery](https://www.1x.com/slinnor) and also my [Flick gallery](https://flickr.com/people/196364106@N04/). I am the man photographer for the Ice Hockey club [HC Olomouc](www.hc-olomouc.cz)
+
+## Currently working on
+I am curently working on these projects
+- Cypress for Twigsee
+- Teeroll Pick (Windows App SDK for League of Legends)
+- Team Etherize Stats (match stats stored in DB using ASP.NET Core & Entity Framework Core)
