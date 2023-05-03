@@ -11,8 +11,7 @@ No just kidding but I love those lyrics. I am someone you don't need to know but
 ## About me
 
 I work at [Twigsee](www.twigsee.com) and I am interested in few programming languages:
-- C#
-- ASP.NET Core
+- .NET
 - PHP
 - Python
 
@@ -23,3 +22,4 @@ I am curently working on these projects
 - Cypress for Twigsee
 - Teeroll Pick (Windows App SDK for League of Legends)
 - Team Etherize Stats (match stats stored in DB using ASP.NET Core & Entity Framework Core)
+- BoLee Tattoo (ASP.NET Core MVC project)
